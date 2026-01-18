@@ -38,12 +38,12 @@
 		"uniques": [
 			"Can be purchased with [Gold] [in all cities]",
 			"Destroyed when the city is captured",
-			"Provides [3] [Horses] <after discovering [Animal Husbandry]>",
-			"Provides [3] [Iron] <after discovering [Iron Working]>",
-			"Provides [3] [Coal] <after discovering [Industrialization]>",
-			"Provides [3] [Oil] <after discovering [Biology]>",
-			"Provides [3] [Aluminum] <after discovering [Electricity]>",
-			"Provides [3] [Uranium] <after discovering [Atomic Theory]>",
+			"Provides [999] [Horses] <after discovering [Animal Husbandry]>",
+			"Provides [999] [Iron] <after discovering [Iron Working]>",
+			"Provides [999] [Coal] <after discovering [Industrialization]>",
+			"Provides [999] [Oil] <after discovering [Biology]>",
+			"Provides [999] [Aluminum] <after discovering [Electricity]>",
+			"Provides [999] [Uranium] <after discovering [Atomic Theory]>",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
 	  	"replacementTextForUniques": "Can be purchased with Gold in all cities\nDestroyed when the city is captured\nProvides 3 of each type of Strategy Resource"
